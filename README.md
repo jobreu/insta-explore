@@ -2,6 +2,7 @@
 Exploring Instagram data collected with zeeschuimer
 
 Jupyter Lab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/insta-explore/main?filepath=import_insta.ipynb)
+
 RStudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/insta-explore/main?urlpath=rstudio)
 
 
